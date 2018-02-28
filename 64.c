@@ -1,10 +1,11 @@
 #include<stdio.h>
 int main()
 {
-char str[30];
+char a[30];
+  int i=30;
 printf("enter a string");
-scanf("%s",&str);
-switch(printf("%s",str))
+scanf("%s",&a);
+switch(printf("%s",a))
 {
 return 0;
 }
